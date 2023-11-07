@@ -1,16 +1,7 @@
-# animated_splash_screen
+# Animated Splash Screen
 
-A new Flutter project.
+100% With Flutter & Dart Without Any Dependencies 👍
 
-## Getting Started
+## UI
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/Shalaby-VBS/Animated_Splash_Screen/assets/149938388/073469dc-377a-4608-93a2-c047ace79ccb
